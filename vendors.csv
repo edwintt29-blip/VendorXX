@@ -1,0 +1,31 @@
+name,base_price,price_per_unit,delivery_days,reliability,delay_penalty_percent
+Acme Industrial,415000,42,5,0.95,1.5
+CyberDyne Systems,456500,66,3,0.98,2.0
+Massive Dynamic,332000,25,7,0.75,0.5
+Stark Industries,398400,50,4,0.88,1.2
+Wayne Enterprises,431600,33,6,0.82,1.0
+Aperture Science,514600,83,2,0.96,3.0
+Tyrell Corp,400000,45,10,0.90,0.8
+LocalTech,480000,60,2,0.94,2.5
+BudgetKing,300000,20,12,0.70,0.5
+PremiumSource,600000,100,1,0.99,5.0
+EcoSupply,550000,75,4,0.92,1.8
+SwiftLogistics,580000,90,2,0.97,3.5
+BulkDepot,250000,15,14,0.65,0.2
+ReliableParts,490000,55,5,0.99,1.5
+TechComponents,520000,80,3,0.94,2.2
+GeneralGoods,420000,40,6,0.85,1.0
+NightOwl,530000,85,2,0.96,3.0
+BudgetBasics,280000,18,10,0.72,0.5
+PrimeDistributors,620000,110,1,0.99,5.0
+UrbanSupply,500000,70,2,0.93,2.5
+RuralTraders,310000,22,9,0.78,0.6
+ImportExportCo,350000,28,15,0.80,0.3
+QualityFirst,650000,120,4,0.995,2.0
+CheapNFast,380000,35,3,0.60,1.0
+StandardSupply,440000,48,5,0.88,1.2
+MegaCorp,460000,52,4,0.95,1.5
+SmallBiz,400000,44,6,0.84,1.0
+DropshipDirect,220000,12,20,0.55,0.1
+ExpressCargo,700000,150,1,0.98,5.0
+WarehouseDeals,340000,30,8,0.76,0.7
